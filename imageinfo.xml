@@ -1,0 +1,7 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/new-cover.jpg" filesize="58839" filedate="2019-04-24 11:49:45" width="480px" height="720px"/>
+<image path="images/ornament.png" filesize="4808" filedate="2019-04-24 11:26:45" width="552px" height="38px"/>
+<image path="images/ornament2.png" filesize="470" filedate="2019-04-24 11:26:45" width="35px" height="36px"/>
+<image path="images/qr59350.png" filesize="270" filedate="2021-06-02 22:14:39" width="148px" height="148px"/>
+<image path="images/titlepage.png" filesize="7909" filedate="2019-04-24 11:26:47" width="485px" height="720px"/>
+</images>
